@@ -15,7 +15,7 @@ Add this to your server config:
 
 ```toml
 [tts]
-enabled = True
+enabled = true
 api_url = "http://localhost/"
 api_token = "123"
 ```
